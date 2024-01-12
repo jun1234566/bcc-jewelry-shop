@@ -42,6 +42,7 @@ div.gallery{
     font-family: sans-serif;
     background: #f2f2f2;
     width: auto;
+    position: sticky;
 }
 
 h3{
@@ -134,6 +135,9 @@ button{
     color: white;
     font-family: Arial, Helvetica, sans-serif;
     margin: 0;
+    position: sticky;
+    top: 0;
+    
 }
 
 body{
