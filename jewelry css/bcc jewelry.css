@@ -186,4 +186,5 @@ input[type=text], select, textarea {
 
 body{
     background: rgb(238, 77, 45);
+    position: sticky;
 }
