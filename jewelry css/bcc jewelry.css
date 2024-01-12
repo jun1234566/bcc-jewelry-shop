@@ -190,7 +190,5 @@ input[type=text], select, textarea {
 body{
     background: rgb(238, 77, 45);
     position: static;
-    min-height: 100vh;
-    flex-direction: column;
 }
 
