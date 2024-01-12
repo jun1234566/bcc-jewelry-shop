@@ -9,6 +9,7 @@ header {
     justify-content: space-around;
     box-shadow: 0 0 20px #45f3ff;
     background: rgb(238, 77, 45);
+    position: sticky;
 }
 a.logo{
     position: relative;
@@ -42,6 +43,7 @@ a{
     text-align: center;
     font-family: Arial, Helvetica, sans-serif;
     background: #f2f2f2;
+    position: sticky;
 }
 
 
@@ -165,6 +167,7 @@ input[type=text], select, textarea {
     padding: 20px;
     margin: 50px 0;
     width: auto;
+    position: sticky;
   }
 
 
@@ -177,6 +180,7 @@ input[type=text], select, textarea {
     color: white;
     font-family: Arial, Helvetica, sans-serif;
     margin: 0;
+    position: sticky;
 }
 
 .buying{
