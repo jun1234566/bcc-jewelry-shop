@@ -9,7 +9,6 @@ header {
     justify-content: space-around;
     box-shadow: 0 0 20px #45f3ff;
     background: rgb(238, 77, 45);
-    max-width: 1280px;
 }
 a.logo{
     position: relative;
@@ -191,5 +190,7 @@ input[type=text], select, textarea {
 body{
     background: rgb(238, 77, 45);
     position: static;
+    min-height: 100vh;
+    flex-direction: column;
 }
 
