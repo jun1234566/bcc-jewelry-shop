@@ -1,0 +1,92 @@
+header {
+    width: 100%;
+    height: 5rem;
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+    display: flex;
+    justify-content: space-around;
+    box-shadow: 0 0 20px #45f3ff;
+    background: rgb(238, 77, 45);
+}
+a.logo{
+    position: relative;
+}
+
+.logo {
+    font-size: 2rem;
+}
+ul a {
+    margin-left: 1rem;
+    transition: 1s;
+}
+ul a:hover{
+    font-size: 1.5rem;
+    color: #00e77f;
+}
+h3 {
+    text-align: center;
+    font-size: 30px;
+    margin: 0;
+    padding-top: 10px;
+}
+a{
+    text-decoration: none;
+}
+
+
+
+input[type=text], select, textarea {
+    width: 100%; /* Full width */
+    padding: 12px; /* Some padding */ 
+    border: 1px solid #ccc; /* Gray border */
+    border-radius: 4px; /* Rounded borders */
+    box-sizing: border-box; /* Make sure that padding and width stays in place */
+    margin-top: 6px; /* Add a top margin */
+    margin-bottom: 16px; /* Bottom margin */
+    resize: vertical /* Allow the user to vertically resize the textarea (not horizontally) */
+  }
+  
+
+  input[type=submit] {
+    background-color: #04AA6D;
+    color: white;
+    padding: 12px 20px;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+  }
+
+  input[type=submit]:hover {
+    background-color: #45a049;
+  }
+  
+  .container {
+    border-radius: 5px;
+    background-color: #f2f2f2;
+    padding: 20px;
+    margin: 100px;
+    width: auto;
+  }
+
+
+
+
+.about-section {
+    padding: 50px;
+    text-align: center;
+    background-color: #474e5d;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 0;
+}
+
+.buying{
+    text-align: center;
+}
+
+
+body{
+    background: rgb(238, 77, 45);
+}
