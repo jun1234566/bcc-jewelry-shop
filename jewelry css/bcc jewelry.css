@@ -11,7 +11,7 @@ header {
     background: rgb(238, 77, 45);
 }
 a.logo{
-    position: fixed;
+    position: relative;
 }
 
 .logo {
@@ -42,7 +42,6 @@ a{
     text-align: center;
     font-family: Arial, Helvetica, sans-serif;
     background: #f2f2f2;
-    position: fixed;
 }
 
 
@@ -178,8 +177,6 @@ input[type=text], select, textarea {
     color: white;
     font-family: Arial, Helvetica, sans-serif;
     margin: 0;
-    position: fixed;
-    top: 0;
 }
 
 .buying{
@@ -189,5 +186,4 @@ input[type=text], select, textarea {
 
 body{
     background: rgb(238, 77, 45);
-    position: sticky;
 }
